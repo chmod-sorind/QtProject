@@ -78,11 +78,6 @@ ApplicationWindow {
                 role: "fileName"
             }
 
-//            TableViewColumn {
-//                title: "File Size"
-//                role: "fileSize"
-//            }
-
             model: fileListModel
         }
         Image {
