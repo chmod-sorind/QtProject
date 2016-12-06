@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/OpenSDCard.png</file>
+        <file>icons/search.png</file>
+        <file>icons/open_in_new_window.png</file>
+    </qresource>
+</RCC>
